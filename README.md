@@ -9,7 +9,7 @@
 
 #### Need a JSON encoded list of country names and their ISO 3166-1-alpha-2 codes? 
 
-Then you are in the right place. I recently created this for a one of my Joomla based extensions and I thought it might be useful for others so feel to grab a copy.
+I recently created this for a one of my Joomla based extensions and thought it might be useful for others.
 
 ## <a name="example"></a>Example
 
